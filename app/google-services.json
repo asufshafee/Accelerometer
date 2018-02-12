@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "445874926943",
+    "firebase_url": "https://accproject-9954f.firebaseio.com",
+    "project_id": "accproject-9954f",
+    "storage_bucket": "accproject-9954f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445874926943:android:68294ea9b66dc426",
+        "android_client_info": {
+          "package_name": "com.app.we"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445874926943-bt48a4opkcr23nabkdo5nfuj37b4esoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8dE82i7DYxxwW_kR74bVItFGYVlGmfLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
